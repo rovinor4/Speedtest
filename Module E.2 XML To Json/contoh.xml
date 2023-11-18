@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computerEquipment>
+    <item>
+        <itemCode>1001</itemCode>
+        <description>Desktop Computer</description>
+        <price>800.00</price>
+        <stockQuantity>50</stockQuantity>
+    </item>
+    <item>
+        <itemCode>1002</itemCode>
+        <description>Laptop</description>
+        <price>1200.00</price>
+        <stockQuantity>30</stockQuantity>
+    </item>
+    <item>
+        <itemCode>1003</itemCode>
+        <description>Monitor</description>
+        <price>200.00</price>
+        <stockQuantity>80</stockQuantity>
+    </item>
+    <item>
+        <itemCode>1004</itemCode>
+        <description>Keyboard</description>
+        <price>30.00</price>
+        <stockQuantity>100</stockQuantity>
+    </item>
+    <item>
+        <itemCode>1005</itemCode>
+        <description>Mouse</description>
+        <price>20.00</price>
+        <stockQuantity>120</stockQuantity>
+    </item>
+</computerEquipment>
