@@ -19,6 +19,10 @@ var strp;
 document.getElementById("str").onclick = () => {
     strp = setInterval(() => {
         detik++;
+        if (jam === 999 && detik === 59) {
+            alert("Mencapai Maksimal")
+            clearInterval(strp);
+        }
         if (detik > 59) {
             detik = 0;
             jam++;
